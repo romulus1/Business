@@ -1,0 +1,49 @@
+html, body, #page-one, #page-two, #page-three, #page-four {
+  height: 100%;
+}
+
+#page-one, #page-two, #page-three, #page-four {
+  padding-top: 2em;
+}
+
+#mainNav {
+  background-color: #668AE4;
+  color: #ddd;
+  line-height: 4em;
+  padding: 0 1em;
+  position: fixed;
+  top: 0em;
+  width: 100%;
+}
+
+#mainNav a, #mainNav a:link, #mainNav a:visited, #mainNav a:hover, #mainNav a:active {
+  color: #eee;
+  text-decoration: none;
+  display: inline-block;
+  padding: 0 1em;
+}
+#mainNav a:hover {
+  color: #4861A2;
+}
+
+h2 {
+  font-size: 3em;
+  padding-top: 1em;
+  text-align: center;
+}
+
+#page-one {
+  background-color: #fff;
+}
+
+#page-two {
+  background-color: #ccc;
+}
+
+#page-three {
+  background-color: #aaa;
+}
+
+#page-four {
+  background-color: #888;
+}
