@@ -34,6 +34,7 @@ h2 {
 
 #page-one {
   background-image: url("http://culversportsidemarina-com.securec55.ezhostingserver.com/wp-content/uploads/2013/08/grey-gradient-background.jpg");
+  font-family: 'Droid Sans', sans-serif;
 }
 
 #page-two {
@@ -201,4 +202,10 @@ article {
   background: rgba(80,80,80,0.3);
   border:1px solid rgba(102,102,102,0.5);
   visibility:hidden;
+}
+
+canvas {
+    position:absolute;
+    top:0;
+    left:0
 }
